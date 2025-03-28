@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //#include "definition.h"
 //
 //#include <stdio.h>
@@ -13,3 +14,5 @@
 //void monprojet_ditbonjour(void){
 //    printf("Hello Sailor !\n");
 //}
+=======
+>>>>>>> ad51f1c3877bed44b6ed3815d935811eb4231952

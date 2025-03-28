@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //// Vous devez ajouter ce #pragma a tous vos fichiers .h de votre projet.
 //// Il garantit que le fichier "header" n'est inclus qu'une seule fois par compilation,
 //// ce qui evite les erreurs de redefinition et les conflits de symboles.
@@ -10,3 +11,5 @@
 //
 //// Lorsqu'une fonction n'a pas de parametre, mettre void entre les parentheses.
 //void monprojet_ditbonjour(void);
+=======
+>>>>>>> ad51f1c3877bed44b6ed3815d935811eb4231952
